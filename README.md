@@ -36,7 +36,7 @@
 - ## 🏅 Certificaciones & Formación
 - **eJPT** — Practical Penetration Testing (en curso).  
 - **CEH** — Certified Ethical Hacker (completada).
-
+- **CWSE** — Web Security Certification (en curso).
 ---
 
 ## ☕ Apoya mis proyectos
