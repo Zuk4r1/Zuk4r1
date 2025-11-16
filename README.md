@@ -33,7 +33,7 @@
 - **CloudGhost** — Permite identificar posibles filtraciones de la IP real en servidores protegidos por Cloudflare.
 - **lethal** — Herramienta ofensiva avanzada para la explotación automatizada de vulnerabilidades IDOR y CSRF
 
-- ## 🏅 Certificaciones & Formación
+## 🏅 Certificaciones & Formación
 - **CEH** — Certified Ethical Hacker (completada).
 - **eJPT** — Practical Penetration Testing (en curso).  
 - **CWSE** — Web Security Certification (en curso).
