@@ -35,9 +35,9 @@
 
 ## 🏅 Certificaciones & Formación
 - **CEH** — Certified Ethical Hacker (completada).
-- **Web Application Pentesting** - (completada)
-- **Offensive Pentesting** - (completada)
-- **eJPT** — Practical Penetration Testing (en curso).  
+- **Web Application Pentesting** - (completada).
+- **Offensive Pentesting** - (completada).
+- **eJPT** — Practical Penetration Testing (completada).  
 - **CWSE** — Web Security Certification (en curso).
 ---
 
