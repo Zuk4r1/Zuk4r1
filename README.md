@@ -1,13 +1,13 @@
 
-<p align="center">
-  <img src="assets/perfil.png" width="50%">
-</p>
-
-<h1 align="center">⚡ ZUK4R1 CYBERSECURITY ⚡</h1>
-
-<p align="center">
-Cybersecurity • Pentesting • Red Team • Bug Bounty
-</p>
+<div style="display:flex;align-items:center;gap:24px;flex-wrap:wrap;">
+  <div style="flex:0 0 240px;">
+    <img src="assets/perfil.png" alt="perfil" style="max-width:100%;height:auto;border-radius:8px;">
+  </div>
+  <div style="flex:1;min-width:200px;">
+    <h1>⚡ ZUK4R1 CYBERSECURITY ⚡</h1>
+    <p>Cybersecurity • Pentesting • Red Team • Bug Bounty</p>
+  </div>
+</div>
 
 ---
 ## 👋 Hola soy Zuk4r1 
