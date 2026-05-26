@@ -1,26 +1,23 @@
-<table>
-<tr>
-<td width="220" align="center">
-  <img src="assets/perfil.png" width="180">
-</td>
-<td>
-
-# <img src="assets/zuk4r1-mobile-wallpaper.png" width="40" align="center"> Hola soy Zuk4r1
+<p align="center">
+  <img src="assets/perfil.png" width="500">
+</p>
 
 ---
 
 ## 🔎 Acerca de mí
-- 🧑‍💻 Estudiante de ciberseguridad y hacking ético.  
-- ⚙️ Aprendiendo hacking avanzado y explotación de vulnerabilidades.  
-- 🚀 Desarrollador de herramientas para automatizar auditorías y support en bug bounty.  
-- 🎯 Enfocado en certificaciones eJPT y en avanzar hacia OSCP.
+- 🧑‍💻 Profesional en formación en ciberseguridad y hacking ético.  
+- ⚙️ Especializado en pentesting web, explotación de vulnerabilidades y automatización ofensiva.  
+- 🚀 Desarrollador de herramientas enfocadas en auditorías de seguridad y bug bounty.  
+- 🛡️ Certificado en eJPT (eLearnSecurity Junior Penetration Tester).  
+- 🎯 Actualmente avanzando hacia certificaciones de nivel profesional como OSCP.
 
 ---
 
 ## 📚 Actualmente estoy
-- 💥 Practicando laboratorios en **INE** (entornos controlados).  
-- 🧠 Estudiando explotación de vulnerabilidades y técnicas avanzadas.  
-- 🧰 Construyendo herramientas útiles para bug bounty y análisis automatizado.
+- 💥 Practicando laboratorios avanzados en plataformas de pentesting y entornos controlados.  
+- 🧠 Profundizando en explotación web, Active Directory, evasión y post-explotación.  
+- 🧰 Construyendo herramientas para automatización ofensiva, análisis y bug bounty.  
+- 🔍 Mejorando habilidades en reconocimiento, enumeración y explotación avanzada.
 
 ---
 
