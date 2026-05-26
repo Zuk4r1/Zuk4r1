@@ -1,7 +1,7 @@
 
 <div style="display:flex;align-items:center;gap:24px;flex-wrap:wrap;">
-  <div style="flex:0 0 240px;">
-    <img src="assets/perfil.png" alt="perfil" style="max-width:100%;height:auto;border-radius:8px;">
+  <div style="flex:0 0 120px; max-width:120px;">
+    <img src="assets/perfil.png" alt="perfil" style="width:100%;height:auto;border-radius:8px;">
   </div>
   <div style="flex:1;min-width:200px;">
     <h1>⚡ ZUK4R1 CYBERSECURITY ⚡</h1>
