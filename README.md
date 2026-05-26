@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="assets/perfil.png" width="500">
-</p>
-
+# 👋 Hola soy zuk4r1
 ---
 
 ## 🔎 Acerca de mí
