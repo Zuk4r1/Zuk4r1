@@ -1,4 +1,3 @@
-
 <table>
 <tr>
 <td width="220" align="center">
@@ -6,8 +5,7 @@
 </td>
 <td>
 
----
-## 👋 Hola soy Zuk4r1 
+# <img src="assets/zuk4r1-mobile-wallpaper.png" width="40" align="center"> Hola soy Zuk4r1
 
 ---
 
